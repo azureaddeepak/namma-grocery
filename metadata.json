@@ -1,0 +1,7 @@
+{
+  "name": "Namma Grocery",
+  "description": "A smart South Indian grocery provisioning app that finds the lowest prices across local shops.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
